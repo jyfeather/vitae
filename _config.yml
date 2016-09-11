@@ -8,18 +8,18 @@ gems: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+# author: Fábio Madeira
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Yan Jin's Homepage 
 name: Yan Jin 
 email: jyfeather@gmail.com 
 email_full: mailto:jyfeather@gmail.com
-website: github.io/jyfeather
-website_full: https://github.io/jyfeather
+website: me.yanjin.info 
+website_full: https://me.yanjin.info/
 github: trending
 twitter: twitter
 tel: +01 425 4991085
