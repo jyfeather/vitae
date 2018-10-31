@@ -22,13 +22,6 @@ website: blog
 website_full: https://yanjin.info/
 github: jyfeather 
 twitter: twitter
-tel: +01 425 4991085
-tel_full: tel:+014254991085
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 6315 NE Radford Drive, 3421
-postcode: 98115
-city: Seattle, WA 
-country: U.S.A. 
 google_analytics: UA-46603525-1
 
 # needed for travis-ci build
