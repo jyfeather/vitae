@@ -13,7 +13,7 @@ url: http://biomadeira.github.io/vitae
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+baseurl: /vitae/
 title: Yan Jin's Homepage 
 name: Yan Jin 
 email: jyfeather@gmail.com 
